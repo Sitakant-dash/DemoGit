@@ -1,0 +1,4 @@
+public sub(int r, int y)
+{
+int g = r - y;
+}

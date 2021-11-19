@@ -1,0 +1,4 @@
+public multiply(int r, int y)
+{
+int g = r * y;
+}
